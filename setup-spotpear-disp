@@ -1,0 +1,3 @@
+#!/bin/bash
+# Setup required dependencies
+sudo apt-get install wiringpi
